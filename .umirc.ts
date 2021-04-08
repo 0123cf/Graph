@@ -2,7 +2,7 @@ import { defineConfig } from 'umi';
 
 export default defineConfig({
   base: '/React-Graph-Demo/dist',
-  publicPath: './dist/',
+  publicPath: './',
   nodeModulesTransform: {
     type: 'none',
   },
